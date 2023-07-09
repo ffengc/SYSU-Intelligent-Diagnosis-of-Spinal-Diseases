@@ -1,0 +1,8 @@
+train: /root/Spinal-Disease-Detection/tph-yolov5/data/hyps/data1/images/train
+val: /root/Spinal-Disease-Detection/tph-yolov5/data/hyps/data1/images/val
+
+# number of classes
+nc: 11
+
+# class names
+names: ['T12-L1', 'L1', 'L1-L2', 'L2', 'L2-L3', 'L3', 'L3-L4', 'L4', 'L4-L5', 'L5', 'L5-S1']
